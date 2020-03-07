@@ -1,0 +1,7 @@
+{
+  "todoList": [
+    { "id": 0, "title":  "한재희", "status":  "active"},
+    { "id": 1, "title":  "한재희1", "status":  "active"},
+    { "id": 2, "title":  "한재희2", "status":  "clear"}
+  ]
+}
